@@ -15,4 +15,5 @@ To install and run the Shopping App locally, follow these steps:
 4. Run the command: `npm run dev`
 
 ## Usage
-Go to 
+1. Go to (https://649e2309f957bf10dfc7594a--stellular-fairy-a18b26.netlify.app/)
+2. nothing else...
